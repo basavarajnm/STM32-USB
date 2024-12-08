@@ -1,0 +1,10 @@
+23:47:15 **** Incremental Build of configuration Debug for project SPI_Project ****
+make -j8 all 
+arm-none-eabi-size  SPI_Project.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12304	     12	   1732	  14048	   36e0	SPI_Project.elf
+Finished building: default.size.stdout
+ 
+
+23:47:15 Build Finished. 0 errors, 0 warnings. (took 193ms)
+
